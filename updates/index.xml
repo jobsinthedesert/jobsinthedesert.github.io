@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates on Jobs in the Desert</title>
+    <link>https://jobsinthedesert.github.io/updates/</link>
+    <description>Recent content in Updates on Jobs in the Desert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jan 2019 20:25:41 -0800</lastBuildDate>
+    
+	<atom:link href="https://jobsinthedesert.github.io/updates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Now Tacking: Palm Springs Unified School District</title>
+      <link>https://jobsinthedesert.github.io/updates/now_tracking_palm_springs_unified_school_district/</link>
+      <pubDate>Mon, 21 Jan 2019 01:03:23 -0800</pubDate>
+      
+      <guid>https://jobsinthedesert.github.io/updates/now_tracking_palm_springs_unified_school_district/</guid>
+      <description>Now tracking Palm Springs Unified School District. RSS feed is now available.</description>
+    </item>
+    
+    <item>
+      <title>Now Tracking: Desert Sands Unified School District</title>
+      <link>https://jobsinthedesert.github.io/updates/now_tracking_desert_sands_unified_school_district/</link>
+      <pubDate>Mon, 21 Jan 2019 00:51:58 -0800</pubDate>
+      
+      <guid>https://jobsinthedesert.github.io/updates/now_tracking_desert_sands_unified_school_district/</guid>
+      <description>Now tracking Desert Sands Unified School District. RSS feed is now available.</description>
+    </item>
+    
+    <item>
+      <title>Now Tracking: Coachella Valley Unified School District</title>
+      <link>https://jobsinthedesert.github.io/updates/now_tracking_coachella_valley_unified_school_district/</link>
+      <pubDate>Mon, 21 Jan 2019 00:34:32 -0800</pubDate>
+      
+      <guid>https://jobsinthedesert.github.io/updates/now_tracking_coachella_valley_unified_school_district/</guid>
+      <description>Now tracking Coachella Valley Unified School District. RSS feed is now available.</description>
+    </item>
+    
+  </channel>
+</rss>
