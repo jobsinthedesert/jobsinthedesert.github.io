@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag on Jobs in the Desert</title>
-    <link>https://jobsinthedesert.github.io/tag/</link>
+    <link>https://jobsinthedesert.com/tag/</link>
     <description>Recent content in Tag on Jobs in the Desert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://jobsinthedesert.github.io/tag/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jobsinthedesert.com/tag/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
